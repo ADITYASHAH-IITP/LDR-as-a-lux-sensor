@@ -31,3 +31,10 @@
 3.Attach the DC motor & potentiometer, and control theangle of the DC motor.<br>
 •Proportional control = error * Kp<br>
 •Use the calibrated potentiometer code and control dcmotor code to get this task done.<br>
+
+
+---
+
+### ⭐️ [Demonstration Link](https://cciitpatna-my.sharepoint.com/:f:/g/personal/aditya_2011mt02_iitp_ac_in/Eu-kaveMPh1IsKI9mprawMMBTdcA2QugArvXpVtLHmQ_vA?e=eEztCl) ### 
+
+---
