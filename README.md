@@ -1,4 +1,4 @@
-# LDR-as-a-lux-sensor
+# LDR-as-a-lux-sensor and DC motor Speed and Position Control using POT and PWM
 <b><br>Circuit</b>
 <br>
 ![image](https://user-images.githubusercontent.com/37467941/124346824-a6b52e80-dbfe-11eb-9d02-7a250dc9fb42.png)
